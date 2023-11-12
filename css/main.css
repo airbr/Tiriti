@@ -91,8 +91,8 @@ textarea {
     max-height: 100%;
   }
 
-  body {
-    background-color: #fcedd1;
+  .flex-tiriti {
+    min-height: 100vh;
   }
 
   details {
