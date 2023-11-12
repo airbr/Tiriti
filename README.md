@@ -1,8 +1,12 @@
 
 
-First, the Maori, then the English, and then the translated Te Reo into English versions of the Treaty.
+First, the Te reo Māori version, then the English, and then the translated Te Reo into English versions of the Treaty.
+
+![te Tiriti O Waitangi](img/Tiriti.jpg)
 
 ---
+
+# Text of the Treaty of Waitangi
 
 Ko Wikitoria, te Kuini o Ingarani, i tana mahara atawai ki nga Rangatira me nga Hapu o Nu Tirani i tana hiahia hoki kia tohungia ki a ratou o ratou rangatiratanga, me to ratou wenua, a kia mau tonu hoki te Rongo ki a ratou me te Atanoho hoki kua wakaaro ia he mea tika kia tukua mai tetahi Rangatira hei kai wakarite ki nga Tangata maori o Nu Tirani-kia wakaaetia e nga Rangatira maori te Kawanatanga o te Kuini ki nga wahikatoa o te Wenua nei me nga Motu-na te mea hoki he tokomaha ke nga tangata o tona Iwi Kua noho ki tenei wenua, a e haere mai nei.
 
