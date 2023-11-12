@@ -1,6 +1,6 @@
 
 
-First, the Te reo Māori version, then the English, and then the translated Te Reo into English versions of the Treaty.
+First, the Te reo Māori version, then the English, and then the translated Te reo into English versions of the Treaty.
 
 ![te Tiriti O Waitangi](img/Tiriti.jpg)
 

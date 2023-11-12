@@ -92,12 +92,15 @@ textarea {
   }
 
   details {
+    font-size: 20px;
+    margin-left: 20px;
     border: 1px solid #aaa;
     border-radius: 4px;
     padding: 0.5em 0.5em 0;
   }
   
   summary {
+    font-size: 28px;
     font-weight: bold;
     margin: -0.5em -0.5em 0;
     padding: 0.5em;
@@ -113,6 +116,7 @@ textarea {
   }
 
   h1 {
+    margin-left: 20px;
     font-family: math;
   }
   
