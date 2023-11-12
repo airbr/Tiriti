@@ -111,6 +111,10 @@ textarea {
     border-bottom: 1px solid #aaa;
     margin-bottom: 0.5em;
   }
+
+  h1 {
+    font-family: math;
+  }
   
 /* ==========================================================================
    Helper classes
