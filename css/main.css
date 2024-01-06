@@ -91,6 +91,10 @@ textarea {
     max-height: 100%;
   }
 
+ .tiriti-text {
+  padding: 50px;
+ }
+
   details {
     font-size: 20px;
     border: 1px solid #aaa;
