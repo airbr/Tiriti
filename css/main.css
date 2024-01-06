@@ -99,7 +99,7 @@ textarea {
   max-width: 500px;
   text-align: center;
   margin: 10px;
-  width: clamp(500px, 100%, 500px);
+  width: clamp(0px, 100%, 500px);
  }
 
  header {
