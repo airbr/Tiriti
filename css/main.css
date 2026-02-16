@@ -91,7 +91,7 @@ div:has(> blockquote) {
   background-color: #ededed;
   margin: 10px auto;
   padding: 15px;
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
 blockquote p::before {
